@@ -1,0 +1,92 @@
+
+
+
+-----------------------------------hone----------------
+compile => C , C++
+interpeter -> Js , php (web dev, app dev)
+
+
+basic datatypes 
+
+int (1,2,22)
+float (1.2222)
+double (2.22222) 
+///////////
+integer( ) not decimal  အဆုံးရှိ 
+	float(0.1) ----------- အဆုံးရှိ 32 
+	double(0.2222222222222222222222) ---- အဆုံးရှိ 64 
+	double သိမ်းနိုင်တဲ့ memory size > float size 
+5 / 2 = 2.5 (float) (use to) 
+
+100 / 3 = > 33.33333333333333333333333333333333333333333333333333333333 (dobule) (science)
+
+//////////
+
+char ('a', 'b',"a")
+
+
+////////////////////////////
+boolean [true , false ]
+ 2 == 2 (true)
+2 == 3 (false)
+ 2 < 3 (true)
+3 < 2 (false)
+
+////////////////////////////
+comment 
+ctrl + /
+
+
+Operators
+
+Arithmetic (+ , - ,* , / ) ဆက်ရန်ရှိ
+Assignment  (=) ဆက်ရန်ရှိ
+Comparison (== ,< , >  , != (၂ သည် ၃ ထက် ကြီးသည် {မှားသလား လို့မေးတာ မှားတာဟုတ်ရင်မှန်တယ် 2  သည် ၃ ထက်ကြီးတာ မှားတော့ / မှားသလားလို့မေးတော့ မှန်တယ်} ) ) 
+
+
+
+
+Conditions and If Statements
+
+int x = 20;
+int y = 18;
+if (x > y) [20 > 18 ] {
+  printf("x is greater than y");
+}
+
+
+
+ အခြားသိနားလည်ရန် 
+
+OS 
+
+windows  , Mac , linux 
+
+ 
+
+
+compile - မြန် / စစခြင်းတစ်ခါနှေး  / ကြိုပြီး run ထားတယ် code ကို (ဖုန်းက applicationတွေ)
+interpeter  - နှေး / ကြို run တာမျိုးမရှိ ( browser ကဝင်တဲ့ websiteတွေ)
+
+
+netwrok 
+
+wifi or internet 
+
+netwrok system  ဖြစ်အောင်
+အချက် ၃ ချက်
+(1) transmittor
+(2) channel
+(3)receiver
+
+
+binary 
+5 + 5 = 10  (decimal)
+
+
+
+digital -> 1 ,0 (ဖြစ်သည်ပျက်သည် ပိတ်သည်ပွင့်သည်)
+analog ->continuous  တစ်ဆက်ထဲသွားသည် 
+
+
+
